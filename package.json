@@ -2,7 +2,7 @@
   "name": "test-pkg-to-github",
   "version": "1.0.0",
   "description": "First test package on github",
-  "main": "index.js",
+  "main": "pkg.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
